@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "mssql": "^8.1.0"
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.0"
+  }
+}
